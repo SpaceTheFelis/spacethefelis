@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/spacethefelis">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=1146&text=What's%20up%20I'm%20Space%2FFelis%2FNeptune" alt="What&#39;s up I&#39;m Space/Felis/Neptune" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=1146&text=What's%20up%20I'm%20Space%2FFelis%2FNeptune" alt="What&#39;s up I&#39;m Space" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 A Software/App/web engineer
 
 🔭 &nbsp;I'm currently working on **A Startup Company**  
-💬 &nbsp;Ask me about **Browsers, search engine, privacy forced softwares**  
+💬 &nbsp;Ask me about **Browsers, search engine, privacy forced softwares and Linux Distros**  
 😄 &nbsp;Pronouns: **He/Him**
 
 ### 🛠️ Tech Stack
@@ -61,12 +61,6 @@ A Software/App/web engineer
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=spacethefelis&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
