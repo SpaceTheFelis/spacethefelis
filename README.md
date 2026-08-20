@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/spacethefelis">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=1146&text=What's%20up%20I'm%20Space%2%2" alt="What&#39;s up I&#39;m Space" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=1146&text=What's%20up%20I'm%20Space%2" alt="What&#39;s up I&#39;m Space" />
   </a>
 </p>
 
