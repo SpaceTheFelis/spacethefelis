@@ -21,8 +21,12 @@ My Portfolio is <a href="specthefelis.github.io/portfolio" target="_blank">here<
 </div>
    
 ### Tools & Stuff
-[![](https://skillicons.dev/icons?i=c,cpp,py,dart,js,java,kotlin,arch,neovim,git,github,obsidian,rust,figma&perline+8)](https://skillicons.dev)
----
+
+**Languages:** Rust,C++, Kotlin,CSS
+**OS:** Arch Linux  
+**Editor:** Neovim  
+**Tools:** Git,GitHub
+
   </p>
         <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
 
