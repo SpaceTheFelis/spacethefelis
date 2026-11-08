@@ -19,17 +19,19 @@ My Portfolio is <a href="specthefelis.github.io/portfolio" target="_blank">here<
   <div>
     <br>
 </div>
-   
-### Tools & Stuff
+ 
+<h3 align="left">Tools &amp; Stuff</h3>
 
-**Languages:** Rust,C++, Kotlin,CSS
-**OS:** Arch Linux  
-**Editor:** Neovim  
-**Tools:** Git,GitHub
-
-  </p>
-        <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
+<p align="left">
+  <strong>Languages:</strong> Rust , C++ , Kotlin , CSS<br>
+  <strong>OS:</strong> Arch Linux<br>
+  <strong>Editor:</strong> Neovim<br>
+  <strong>Tools:</strong> Git , GitHub
+</p>
 
   <p align="center">
-    𝒊: Programming is easy if you thought it's easy, it's hard when you think it's hard ⏾
+        <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
+  </p>
+  <p align="center">
+    𝒊: Programming is easy if you think it's easy, it's hard when you think it's hard ⏾
   </p>
